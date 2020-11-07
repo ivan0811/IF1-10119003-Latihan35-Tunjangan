@@ -1,6 +1,16 @@
 package com.ivanfaathirza.tunjangan;
 
 import java.util.Scanner;
+/**
+ *
+ * @author User
+ * NAMA         : Ivan Faathirza
+ * KELAS        : IF1
+ * NIM          : 10119003
+ * Deskripsi Program : program ini untuk menghitung tunjangan 
+ * bagi yang sudah menikah dan berbasis objek dengan 
+ * instansiasi objek tunjangan
+ */
 
 public class Latihan35Tunjangan {
     public static void main(String[] args) {
